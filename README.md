@@ -111,7 +111,3 @@ class _MyHomePageState extends State<MyHomePage> {
 | statusColor | Color | Colors.black |
 | verticalPadding | double | 8 |
 | horizontalPadding | double | 8 |
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/) Copyright (c) 2022, [Emre Coşkunçay](https://github.com/coskuncay)
